@@ -28,7 +28,7 @@ info:
     * `message` - Error description
     * `status` - HTTP status code
   version: 1.0.0
-  title: ESPER API REFERENCE
+  title: ESPER API REFERENCES
   termsOfService: 'https://esper.io/terms-of-service'
   contact:
     email: developer@esper.io
